@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.davekoelle</groupId>
     <artifactId>alphanum</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
     <name>alphanum</name>
     <description>Library for alphanumeric sort</description>
     <scm>
