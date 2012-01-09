@@ -1,4 +1,4 @@
-package com.davekoelle;
+package com.davekoelle.alphanum;
 
 /*
  * The Alphanum Algorithm is an improved sorting algorithm for strings
